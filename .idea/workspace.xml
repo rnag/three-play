@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="982a5a88-bea1-45db-9857-317b4144e37b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/three-play.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/threeplay.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.rst" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HISTORY.rst" beforeDir="false" afterPath="$PROJECT_DIR$/HISTORY.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/installation.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/installation.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/make.bat" beforeDir="false" afterPath="$PROJECT_DIR$/docs/make.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/usage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/usage.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_threeplay.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_three_play.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/config/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/config/requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/config/requests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/errors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/parse/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/parse/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/parse/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/parse/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/parse/srt.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/parse/srt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/parse/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/parse/types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/response.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/time_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/time_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/utils/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/utils/types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/v3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/v3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/v3/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/v3/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/v3/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/v3/helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/v3/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/v3/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/v3/models/requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/v3/models/requests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/threeplay/v3/models/three_play_media.py" beforeDir="false" afterPath="$PROJECT_DIR$/three_play/v3/models/three_play_media.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/tox.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

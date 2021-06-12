@@ -45,6 +45,14 @@ Usage
     transcripts = ThreePlayHelper.get_transcripts('my-video-id')
     print(len(transcripts), transcripts)
 
+Installing
+----------
+The 3Play helper library is available on PyPI:
+
+.. code-block:: shell
+
+    $ python -m pip install three-play
+
 Supported Versions
 ------------------
 The ``three-play`` helper library officially supports **Python 3.7** or higher.
