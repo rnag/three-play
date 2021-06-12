@@ -20,7 +20,7 @@ import logging
 
 __author__ = 'Ritvik Nag'
 __email__ = 'rv.kvetch@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 
 # Set up logging to ``/dev/null`` like a library is supposed to.
