@@ -1,5 +1,5 @@
 Welcome to 3Play API Helper's documentation!
-======================================
+============================================
 
 .. toctree::
    :maxdepth: 2
@@ -10,7 +10,6 @@ Welcome to 3Play API Helper's documentation!
    usage
    modules
    contributing
-   authors
    history
 
 Indices and tables
