@@ -38,8 +38,8 @@ and "help wanted" is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-3Play API could always use more documentation, whether as part of the
-official 3Play API docs, in docstrings, or even on the web in blog posts,
+3Play API Helper could always use more documentation, whether as part of the
+official 3Play API Helper docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback

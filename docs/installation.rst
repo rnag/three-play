@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install 3Play API, run this command in your terminal:
+To install 3Play API Helper, run this command in your terminal:
 
 .. code-block:: console
 
     $ pip install three-play
 
-This is the preferred method to install 3Play API, as it will always install the most recent stable release.
+This is the preferred method to install 3Play API Helper, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,7 +26,7 @@ you through the process.
 From sources
 ------------
 
-The sources for 3Play API can be downloaded from the `Github repo`_.
+The sources for 3Play API Helper can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 

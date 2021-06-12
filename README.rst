@@ -1,6 +1,6 @@
-=========
-3Play API
-=========
+================
+3Play API Helper
+================
 
 
 .. image:: https://img.shields.io/pypi/v/three-play.svg
@@ -20,7 +20,7 @@
 
 
 
-A Python library for the 3Play API v3
+A Python wrapper library for the 3Play API v3
 
 
 * Free software: MIT license

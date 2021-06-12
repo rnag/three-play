@@ -1,4 +1,4 @@
-Welcome to 3Play API's documentation!
+Welcome to 3Play API Helper's documentation!
 ======================================
 
 .. toctree::
