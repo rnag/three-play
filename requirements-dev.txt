@@ -1,7 +1,7 @@
 requests
 pip~=21.1.2
 bump2version~=1.0.1
-wheel~=0.36.2
+wheel==0.41.0
 watchdog~=2.1.2
 flake8~=3.9.2
 tox~=3.23.1
